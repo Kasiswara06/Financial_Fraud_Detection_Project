@@ -31,3 +31,9 @@ reports/
 # OS Files
 .DS_Store
 Thumbs.db
+ datasets/
+models/
+reports/
+
+*.csv
+*.pkl
