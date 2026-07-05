@@ -7,9 +7,8 @@ venv/
 .env
 .venv/
 
-# IDE
+# VS Code
 .vscode/
-.idea/
 
 # Streamlit
 .streamlit/secrets.toml
