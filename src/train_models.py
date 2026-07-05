@@ -16,10 +16,10 @@ def train_models(X_train, y_train):
         DecisionTreeClassifier(random_state=42),
 
         "Random Forest":
-        RandomForestClassifier(
-            n_estimators=200,
-            random_state=42
-        )
+        RRandomForestClassifier(
+        n_estimators=200,
+        random_state=42
+    )
     }
 
     trained_models = {}
